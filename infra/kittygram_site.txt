@@ -1,0 +1,5 @@
+IP: 84.252.139.70;
+name_taski: https://bobrys.ddns.net/;
+name_kittygram: https://kittygramart.sytes.net/;
+login: ARTEM;
+password: 606996972023;
