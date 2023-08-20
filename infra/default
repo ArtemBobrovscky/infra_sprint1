@@ -27,13 +27,13 @@ server {
 server {
     if ($host = bobrys.ddns.net) {
         return 301 https://$host$request_uri;
-    } # managed by Certbot
+    }
 
 
 
     listen 80;
     server_name 84.252.139.70 bobrys.ddns.net;
-    return 404; # managed by Certbot
+    return 404;
 
 
 }
@@ -73,12 +73,12 @@ server {
 server {
     if ($host = kittygramart.sytes.net) {
         return 301 https://$host$request_uri;
-    } # managed by Certbot
+    }
 
 
      listen 80;
      server_name kittygramart.sytes.net;
-    return 404; # managed by Certbot
+    return 404;
 
 
 }
