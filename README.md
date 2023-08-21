@@ -13,12 +13,11 @@
  - gunicorn
  
 # Установка проекта на локальный компьютер из репозитория 
- - Клонировать репозиторий `git clone <адрес вашего репозитория>`
+ - Клонировать репозиторий `git clone git@github.com:ArtemBobrovscky/infra_sprint1.git`
  - перейти в директорию с клонированным репозиторием
  - установить виртуальное окружение `python3 -m venv venv`
  - установить зависимости `pip install -r requirements.txt`
- - выполнить миграции `python3 manage.py makemigrations` 
-                      `python3 manage.py migrate`
+ - выполнить миграции `python3 manage.py migrate`
  - в директории /backend/kittygram_backend/ создать файл .env
  - в файле .env прописать ваш SECRET_KEY в виде: `SECRET_KEY = '<ваш_ключ>'`
 
@@ -26,19 +25,19 @@
 
 ## Авторизайия\Регистрация
 
-```https://kittygramart.sytes.net/signin```
+```https://84.252.139.70/signin```
 
 ## Главная
 
-```https://kittygramart.sytes.net/```
+```https://84.252.139.70/```
 
 ##  Добавление котика
 
-```https://kittygramart.sytes.net/cats/add~```
+```https://84.252.139.70/cats/add~```
 
 ## Страница котика
 
-```https://kittygramart.sytes.net/cats/5```
+```https://84.252.139.70/cats/5```
 
 
 # Автор
