@@ -23,21 +23,17 @@
 
 # Примеры запросов к API
 
-## Авторизайия\Регистрация
-
-```https://84.252.139.70/signin```
-
 ## Главная
 
-```https://84.252.139.70/```
+```https://kittygramart.sytes.net/```
 
 ##  Добавление котика
 
-```https://84.252.139.70/cats/add~```
+```https://kittygramart.sytes.net/cats/add~```
 
 ## Страница котика
 
-```https://84.252.139.70/cats/5```
+```https://kittygramart.sytes.net/cats/5```
 
 
 # Автор
